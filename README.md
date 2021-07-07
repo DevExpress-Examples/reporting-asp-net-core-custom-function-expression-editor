@@ -12,6 +12,8 @@ This example demonstrates how to implement custom functions for the [Expression 
 
 The project implements the **CustomFormatFunction** function that formats a value with the specified format string.
 
+![Custom Function in Expression Editor](images/screenshot.png)
+
 **See also:**
 - [CustomFunctions class](https://docs.devexpress.com/XtraReports/DevExpress.XtraReports.Expressions.CustomFunctions)
 - [Add or Remove a Function in the Expression Editor (ASP.NET Core)](https://docs.devexpress.com/XtraReports/403261)
