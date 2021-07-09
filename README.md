@@ -12,7 +12,7 @@ This example demonstrates how to implement custom functions for the [Expression 
 
 The project implements the **CustomFormatFunction** function that formats a value with the specified format string.
 
-![Custom Function in Expression Editor](images/screenshot.png)
+![Custom Function in Expression Editor](./Images/screenshot.png)
 
 **See also:**
 - [CustomFunctions class](https://docs.devexpress.com/XtraReports/DevExpress.XtraReports.Expressions.CustomFunctions)
