@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq.Expressions;
 
 namespace CustomFunctionInExpressionAspNetCore.Services {
-    class CountDistinctCustomAggregate : ICustomAggregateFormattable, ICustomAggregateBrowsable {
+    public class CountDistinctCustomAggregate : ICustomAggregateFormattable, ICustomAggregateBrowsable {
         static readonly CountDistinctCustomAggregate instance = new CountDistinctCustomAggregate();
         public static void Register() {
             CriteriaOperator.RegisterCustomAggregate(instance);
