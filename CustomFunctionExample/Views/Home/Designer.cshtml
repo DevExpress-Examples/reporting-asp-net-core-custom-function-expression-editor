@@ -1,6 +1,13 @@
-﻿@{
+﻿<script type="text/javascript">
+    function OnBeforeRender(event) {
+        delete DevExpress.Reporting.Designer.Widgets.reportFunctionDisplay[1].items["LocalDateTimeThisYear"];
+    }
+</script>
+
+@{
     var designerRender = Html.DevExpress().ReportDesigner("reportDesigner")
         .Height("100%")
+        .ClientSideEvents(configure => configure.BeforeRender("OnBeforeRender"))
         .Bind(Model.ReportDesignerModel);
     @designerRender.RenderHtml()
 }
