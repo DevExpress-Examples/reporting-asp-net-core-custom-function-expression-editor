@@ -18,7 +18,7 @@ The project implements the following custom functions:
 
 The `CustomFormatFunction` class inherits from the [ReportCustomFunctionOperatorBase](https://docs.devexpress.com/XtraReports/DevExpress.XtraReports.Expressions.ReportCustomFunctionOperatorBase) class.
 
-The `CountDistinctCustomAggregate` class implements the [ICustomAggregateBrowsable](https://docs.devexpress.com/CoreLibraries/DevExpress.Data.Filtering.ICustomAggregateBrowsable?v=22.1) interface.
+The `CountDistinctCustomAggregate` class implements the [ICustomAggregateBrowsable](https://docs.devexpress.com/CoreLibraries/DevExpress.Data.Filtering.ICustomAggregateBrowsable) interface.
 
 ## Files to Review
 
