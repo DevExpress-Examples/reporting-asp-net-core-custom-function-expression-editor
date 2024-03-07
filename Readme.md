@@ -20,7 +20,7 @@ The `CustomFormatFunction` class inherits from the [ReportCustomFunctionOperator
 
 The `CountDistinctCustomAggregate` class implements the [ICustomAggregateBrowsable](https://docs.devexpress.com/CoreLibraries/DevExpress.Data.Filtering.ICustomAggregateBrowsable?v=22.1) interface.
 
-## Files to Look At
+## Files to Review
 
 - [CustomFormatFunction.cs](./CustomFunctionExample/CustomFunctions/CustomFormatFunction.cs)
 - [CountDistinctCustomAggregate.cs](./CustomFunctionExample/CustomFunctions/CountDistinctCustomAggregate.cs)
