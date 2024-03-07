@@ -16,7 +16,7 @@ The project implements the following custom functions:
 
     ![Custom Aggregate Function in Expression Editor](Images/customaggregate.png)
 
-The `CustomFormatFunction` class inherits from the [ReportCustomFunctionOperatorBase](http://docs.devexpress.devx/XtraReports/DevExpress.XtraReports.Expressions.ReportCustomFunctionOperatorBase?v=22.1) class.
+The `CustomFormatFunction` class inherits from the [ReportCustomFunctionOperatorBase](https://docs.devexpress.com/XtraReports/DevExpress.XtraReports.Expressions.ReportCustomFunctionOperatorBase) class.
 
 The `CountDistinctCustomAggregate` class implements the [ICustomAggregateBrowsable](https://docs.devexpress.com/CoreLibraries/DevExpress.Data.Filtering.ICustomAggregateBrowsable?v=22.1) interface.
 
