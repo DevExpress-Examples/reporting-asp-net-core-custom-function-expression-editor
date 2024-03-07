@@ -6,9 +6,9 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [CustomFormatFunction.cs](./CustomFunctionInExpressionAspNetCore/Services/CustomFormatFunction.cs)
-* [Startup.cs](./CustomFunctionInExpressionAspNetCore/Startup.cs)
-* [Index.cshtml](./CustomFunctionInExpressionAspNetCore/Views/Home/Index.cshtml)
+* [CustomFormatFunction.cs](./CS/CustomFunctionInExpressionAspNetCore/Services/CustomFormatFunction.cs)
+* [Startup.cs](./CS/CustomFunctionInExpressionAspNetCore/Startup.cs)
+* [Index.cshtml](./CS/CustomFunctionInExpressionAspNetCore/Views/Home/Index.cshtml)
 <!-- default file list end -->
 
 # Expression Editor - How to Implement a Custom Function in a Reporting Application for ASP.NET Core
