@@ -26,7 +26,7 @@ The project implements the **CustomFormatFunction** function that formats a valu
 - [Expression Editor - How to Implement a Custom Function (WinForms)](https://github.com/DevExpress-Examples/Reporting_expression-editor-how-to-implement-a-custom-new-line-and-format-functions-t211298)
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-asp-net-core-custom-function-expression-editor&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-asp-net-core-custom-function-expression-editor&~~~was_helpful=no)
 
